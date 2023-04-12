@@ -15,15 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div class="container">
+  <div align="center" class="row">
+    <div class="col">
+        <a href="https://github.com/tusharrao198/tusharrao198">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharrao198&count_private=true&show_icons=true&hide=stars" />
+        </a>
+    </div>
+    <div class="col">
+        <a href="https://github.com/tusharrao198/tusharrao198">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrao198&" alt="tusharrao198" />
+        </a>    
+    </div>
+    <div class="col">
+        <a href="https://github.com/tusharrao198/tusharrao198">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharrao198&hide=java,css,html,ejs,procfile" />
+        </a>    
+    </div>
+  </div>
+</div>
+<!-- 
 <a href="https://github.com/tusharrao198/tusharrao198">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharrao198&count_private=true&show_icons=true&hide=stars" />
+  <img width="100" height="75" align="center" src="https://github-readme-stats.vercel.app/api?username=tusharrao198&count_private=true&show_icons=true&hide=stars" />
 </a>
-<!-- <p align="center"></p> -->
-
 <a href="https://github.com/tusharrao198/tusharrao198">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrao198&" alt="tusharrao198" />
+    <img width="100" height="75" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrao198&" alt="tusharrao198" />
 </a>
-
-<p align="center" href="https://github.com/tusharrao198/tusharrao198">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharrao198&hide=java,css,html,ejs,procfile" />
-</p>
+<a href="https://github.com/tusharrao198/tusharrao198">
+    <img width="100" height="75" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharrao198&hide=java,css,html,ejs,procfile" />
+</a> -->
