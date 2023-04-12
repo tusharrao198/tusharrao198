@@ -19,14 +19,14 @@ Here are some ideas to get you started:
   <div align="center" class="row">
     <div class="col">
         <a href="https://github.com/tusharrao198/tusharrao198">
-<!--           <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharrao198&count_private=true&show_icons=true&hide=stars&theme=transparent" /> -->
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharrao198&count_private=true&show_icons=true&hide=stars&theme=radical" />
-        </a>
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrao198&theme=radical" alt="tusharrao198" />
+        </a>    
     </div>
     <div class="col">
         <a href="https://github.com/tusharrao198/tusharrao198">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharrao198&theme=radical" alt="tusharrao198" />
-        </a>    
+<!--           <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharrao198&count_private=true&show_icons=true&hide=stars&theme=transparent" /> -->
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharrao198&count_private=true&show_icons=true&hide=stars&theme=radical" />
+        </a>
     </div>
     <div class="col">
         <a href="https://github.com/tusharrao198/tusharrao198">
